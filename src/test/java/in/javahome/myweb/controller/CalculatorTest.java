@@ -14,4 +14,7 @@ public class CalculatorTest extends TestCase {
 	public void Multiply(){
 		Assert.assertEquals(cal.multiply(10, 20), 200);
 	}
+	public void ltiply(){
+		Assert.assertEquals(cal.multiply(10, 20), 200);
+	}
 }
